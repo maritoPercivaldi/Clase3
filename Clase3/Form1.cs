@@ -15,6 +15,7 @@ namespace Clase3
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Hola Mundo");
         }
     }
 }
